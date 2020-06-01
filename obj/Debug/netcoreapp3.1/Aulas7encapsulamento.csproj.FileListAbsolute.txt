@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\bin\Debug\netcoreapp3.1\Aulas7encapsulamento.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\bin\Debug\netcoreapp3.1\Aulas7encapsulamento.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\bin\Debug\netcoreapp3.1\Aulas7encapsulamento.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\bin\Debug\netcoreapp3.1\Aulas7encapsulamento.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\bin\Debug\netcoreapp3.1\Aulas7encapsulamento.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\bin\Debug\netcoreapp3.1\Aulas7encapsulamento.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\obj\Debug\netcoreapp3.1\Aulas7encapsulamento.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\obj\Debug\netcoreapp3.1\Aulas7encapsulamento.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\obj\Debug\netcoreapp3.1\Aulas7encapsulamento.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\obj\Debug\netcoreapp3.1\Aulas7encapsulamento.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aulas7encapsulamento\obj\Debug\netcoreapp3.1\Aulas7encapsulamento.pdb
